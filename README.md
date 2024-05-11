@@ -23,7 +23,7 @@ To run this application, you will need Python and several packages. Here are the
 pip install opencv-python
 ```
 
-3 **Pillow** (PIL Fork): Used for image handling in the Tkinter GUI.
+3. **Pillow** (PIL Fork): Used for image handling in the Tkinter GUI.
 ```bash
 pip install Pillow
 ```
